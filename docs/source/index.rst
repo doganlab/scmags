@@ -1,6 +1,10 @@
 scMAGS: Marker Gene Selection From scRNA-seq Data for Spatial Transcriptomics Studies
-=====================================================================================
+-------------------------------------------------------------------------------------
 
+.. image:: _images/scmags_abstract.png
+   :align: center
+   :width: 650px
+   
 .. toctree::
    :maxdepth: 1
    :hidden:

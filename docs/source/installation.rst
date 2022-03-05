@@ -3,7 +3,7 @@ Installation
 
 scmags supports Python 3.6 or newer.
 
-We recommend to install scmags via pip:
+scmags can be installed as follows:
 
 .. code-block:: bash
 
@@ -13,6 +13,6 @@ You can also install the development version of scmags from master branch of Git
 
 .. code-block:: bash
 
-    $ pip install git+https://github.com/bashalo
+    $ pip install git+https://github.com/doganlab/scmags
 
 

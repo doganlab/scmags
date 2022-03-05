@@ -1,6 +1,5 @@
 API
 ===
-
 .. module:: scmags
 
 Main Class
