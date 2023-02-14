@@ -2,7 +2,7 @@
 
 ### scMAGS: Marker Gene Selection From scRNA-seq Data for Spatial Transcriptomics Studies
 
-![plot](./docs/source/scmgs_Abstract.png)
+![plot](./docs/source/scmags_Abstract.png)
 
 -> scmags selects marker genes from scRNA-seq data that are exclusive to each cell type such that, selected marker genes are highly expressed in a specific cell type while lowly expressed in other cell types.
 
