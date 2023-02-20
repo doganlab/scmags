@@ -6,6 +6,8 @@
 
 -> scmags selects marker genes from scRNA-seq data that are exclusive to each cell type such that, selected marker genes are highly expressed in a specific cell type while lowly expressed in other cell types.
 
+-> See the [article](https://www.sciencedirect.com/science/article/abs/pii/S0010482523000999) for more detailed information.
+
 #### Installation
 
 -> scmags can be installed as follows:
